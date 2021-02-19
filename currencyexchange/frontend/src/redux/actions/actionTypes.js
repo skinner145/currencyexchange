@@ -1,0 +1,9 @@
+export const SET_BASE = "SET_BASE"
+export const GET_CUR = 'GET_CUR'
+export const ADD_CUR = 'ADD_CUR'
+export const GET_ADDED_CURS = 'GET_ADDED_CURS'
+export const REMOVE_CUR = 'REMOVE_CUR'
+export const SET_AMOUNT = 'SET_AMOUNT'
+export const TEST = 'TEST'
+export const SWAP_BASE = 'SWAP_BASE'
+export const SET_DATE = 'SET_DATE'
